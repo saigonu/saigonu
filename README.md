@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey, I'm Sai 👋
 
-<!--
-**saigonu/saigonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 19 year old developer.
 
-Here are some ideas to get you started:
+## 🔭 Current
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on my personal website.
+
+## ⚡️ Experience
+
+I like to say that I'm full-stack.
+
+
+
