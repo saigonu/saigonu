@@ -1,1 +1,1 @@
-![Sai Gonuguntla](https://github.com/saigonu/saigonu/blob/master/github.png)
+![Sai Gonuguntla](https://github.com/saigonu/saigonu/github.png)
