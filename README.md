@@ -1,1 +1,15 @@
-![github2](https://user-images.githubusercontent.com/75554919/212459476-6861ed66-faff-4721-816e-5de9ed160fc6.png)
+````bash
+> help --info
+> Computer Science student from Southern California. Now based in Davis, CA.
+> Junior at UC Davis majoring in Computer Science minoring in Technology Management.
+````
+
+````bash
+> help --contact
+> linkedin: saigonuguntla
+````
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+![](https://komarev.com/ghpvc/?username=saigonu&color=6A8AFF)
