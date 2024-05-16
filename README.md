@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Common Lisp   59 mins         ████████████████████▓░░░░   82.70 %
-Python        10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
-Other         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-TeX           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
