@@ -12,7 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Prolog    1 min           ███████████████▒░░░░░░░░░   61.97 %
+Gnuplot   0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.69 %
+Perl      0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
 ```
 
 <!--END_SECTION:waka-->
