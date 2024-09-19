@@ -1,13 +1,13 @@
-````bash
+```bash
 > help --info
-> Computer Science student from Southern California. Now based in Davis, CA.
-> Junior at UC Davis majoring in Computer Science minoring in Technology Management.
-````
+> Software Engineer and Computer Science Student
+> Senior at UC Davis majoring in Computer Science
+```
 
-````bash
+```bash
 > help --contact
 > linkedin: saigonuguntla
-````
+```
 
 <!--START_SECTION:waka-->
 
