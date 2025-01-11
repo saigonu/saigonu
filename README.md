@@ -7,7 +7,7 @@
 ```bash
 > help --contact
 > linkedin: saigonuguntla
-> website: sagionuguntla.tech
+> website: saigonuguntla.tech
 ```
 
 <!--START_SECTION:waka-->
