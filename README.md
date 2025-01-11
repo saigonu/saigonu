@@ -1,12 +1,13 @@
 ```bash
 > help --info
-> Software Engineer and Computer Science Student
-> Senior at UC Davis majoring in Computer Science
+> Software Engineer
+> Graduated from UC Davis with BSc in Computer Science
 ```
 
 ```bash
 > help --contact
 > linkedin: saigonuguntla
+> website: sagionuguntla.tech
 ```
 
 <!--START_SECTION:waka-->
