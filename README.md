@@ -1,7 +1,7 @@
 ```bash
 > help --info
 > Software Engineer
-> Graduated from UC Davis with BSc in Computer Science
+> Graduated from UC Davis with BS in Computer Science
 ```
 
 ```bash
