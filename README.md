@@ -13,8 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go     0 secs          ██████████████████████▓░░   90.21 %
-JSON   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
